@@ -1,0 +1,1 @@
+# App_hat_Scans_QR_and_Saves_Data_in_Local_DataBase
